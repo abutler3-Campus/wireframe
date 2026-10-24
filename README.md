@@ -30,8 +30,7 @@ Amber Butlers Portfolio
             <h1>Amber Butler</h1>
             <p class="tagline">Designer • Developer • Storyteller</p>
             <p class="intro">
-              I build expressive digital experiences that combine thoughtful design,
-              clear storytelling, and practical functionality.
+            Im a new tech student and im just getting the hang of everything
             </p>
           </div>
           <div class="hero-image-wrap">
